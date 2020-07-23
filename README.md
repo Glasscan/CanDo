@@ -1,1 +1,3 @@
 # CanDo
+
+Examples and templates

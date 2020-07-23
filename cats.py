@@ -1,3 +1,3 @@
-"""Some file for fun."""
+"""Example module."""
 
-print("Cats and dogs.")
+print("Cats and Dogs")
